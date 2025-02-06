@@ -1,0 +1,1 @@
+A Library Management System using C++ and MySQL, enabling book management, student registration, and borrowing functionality. Implemented SQL queries for data storage and retrieval, ensuring efficient database operations. Designed an admin command-line interface for seamless interaction with the library system.
